@@ -54,7 +54,7 @@
 870.manage-monitor-dashboard=Monitoring Dashboard management
 880.manage-performance-monitoring=Monitoring management
 100.performance-monitoring-overview=Manage monitoring
-200.manage-custom-monitoring-management=Use the custom monitoring feature
+200.manage-custom-monitoring=Use the custom monitoring feature
 300.manage-indicator-items=Manage indicator items
 400.manage-chart=Manage charts
 900.use-the-inspection-feature=Use the inspection feature
@@ -87,7 +87,7 @@
 400.manage-roles=Manage roles
 500.manage-users=Manage users
 600.management-user-center=User center management
-300.manage-password-box=Manage password box
+700.manage-password-box=Manage password box
 300.common-o-m-problems=FAQ on O&M
 400.common-monitoring-problems=FAQ on monitoring
 1800.sql-tuning-practices=SQL Tuning Practices
