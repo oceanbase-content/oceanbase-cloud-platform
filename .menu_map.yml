@@ -62,6 +62,9 @@
 400.initate-a-inspection=发起巡检
 600.manage-inspection-report=管理巡检报告
 1000.diagnosis-and-tuning-fuctions=诊断调优
+1050.operation-and-maintenance-functions=运维管理
+100.manage-information-collection=管理信息采集
+200.manage-plans=管理预案
 100.manage-sql-diagnosis=SQL 诊断
 100.sql-diagnostics-introduction=SQL 诊断介绍
 200.manage-transaction-diagnostics=事务诊断
