@@ -63,8 +63,7 @@
 200.manage-transaction-diagnostics=Transaction Diagnostics
 300.manage-session=Manage sessions
 600.manage-the-reports=View diagnostics reports
-1050.operation-and-maintenance-functions=O&M Management
-300.use-the-inspection-feature=Inspection Management
+900.use-the-inspection-feature=Inspection Management
 200.configure-the-rules=Configure Scheduling Rules
 400.initate-a-inspection=Initiate Inspection
 600.manage-inspection-report=Manage Inspection reports
