@@ -92,7 +92,7 @@
 200.manage-a-role=管理角色
 300.manage-tags=管理标签
 500.manage-system-parameter=管理系统参数
-700.management-user-center=管理个人中心
+700.manage-user-center=管理个人中心
 1800.sql-tuning-practices=SQL 调优实践
 100.how-to-locate-abnormal-sql=常见的异常 SQL 定位
 200.custom-exception-sql-rules=自定义异常 SQL 规则
