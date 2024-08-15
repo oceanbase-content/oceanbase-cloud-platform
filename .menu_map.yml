@@ -136,6 +136,8 @@
 450.binlog-service=Binlog 服务
 500.obproxy-cluster=OBProxy 集群
 600.host=主机
+400.collection-reference=采集内容参考
+100.merge-exceptions=合并异常
 2000.faq=常见问题
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
