@@ -113,7 +113,6 @@
 200.api-reference=API 参考
 500.cluster-management=集群管理
 600.tenant-management=租户管理
-1900.ob-database-management=OceanBase 数据库管理
 700.obproxy-management=OBProxy 管理
 800.database-management=数据库管理
 900.monitoring=监控

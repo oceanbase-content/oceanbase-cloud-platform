@@ -111,7 +111,6 @@
 200.api-reference=API Reference
 500.cluster-management=Cluster management
 600.tenant-management=Tenant management
-1900.ob-database-management=OceanBase database management
 700.obproxy-management=OBProxy management
 800.database-management=Database management
 900.monitoring=Monitoring
