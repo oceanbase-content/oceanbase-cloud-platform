@@ -123,9 +123,9 @@
 1500.software-package=Software packages
 1600.om-task-management=Operations task management
 1700.system-management=System-management
-100.ocp-historical-events=OCP event history
-200.health-examination=Health examination
-300.ocpagent-management=OCP Agent management
+100.health-examination=Health examination
+200.ocp-historical-events=Operation Audit
+300.ocpagent-management=Agent management
 300.monitoring-indicator-reference=Metric reference
 300.ob-cluster=OceanBase cluster
 400.oceanbase-database-tenant=OceanBase Database tenant
