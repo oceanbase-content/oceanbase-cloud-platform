@@ -135,6 +135,12 @@
 450.binlog-service=Binlog 服务
 500.obproxy-cluster=OBProxy 集群
 600.host=主机
+400.collection-reference=采集内容参考
+100.merge-exceptions=合并异常
+200.ocp-agent-exceptions=OCP Agent 异常
+300.cluster-exceptions=集群异常
+400.cpu-exceptions=CPU 异常
+500.data-disk-full=数据盘满
 2000.faq=常见问题
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
