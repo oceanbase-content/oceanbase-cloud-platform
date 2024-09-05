@@ -135,7 +135,7 @@
 450.binlog-service=Binlog 服务
 500.obproxy-cluster=OBProxy 集群
 600.host=主机
-400.collection-reference=采集内容参考
+400.collection-reference=信息采集参考
 100.merge-exceptions=合并异常
 200.ocp-agent-exceptions=OCP Agent 异常
 300.cluster-exceptions=集群异常
