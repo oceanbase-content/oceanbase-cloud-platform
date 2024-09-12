@@ -26,7 +26,7 @@
 600.cluster-functions=集群管理
 200.create-a-cluster=新建集群
 300.manage-a-cluster=管理集群
-1200.manage-o&m-configuration=管理运维配置
+1200.manage-om-configuration=管理运维配置
 400.manage-arbitration-services=管理仲裁服务
 500.manage-a-zone=管理 Zone
 600.manage-an-observer=管理 OBServer
