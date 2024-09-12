@@ -26,6 +26,7 @@
 600.cluster-functions=集群管理
 200.create-a-cluster=新建集群
 300.manage-a-cluster=管理集群
+1200.manage-o&m-configuration=管理运维配置
 400.manage-arbitration-services=管理仲裁服务
 500.manage-a-zone=管理 Zone
 600.manage-an-observer=管理 OBServer
@@ -95,6 +96,7 @@
 100.manage-a-user=管理用户
 200.manage-a-role=管理角色
 300.manage-tags=管理标签
+450.manage-external-integration=管理外部集成
 500.manage-system-parameter=管理系统参数
 700.manage-user-center=管理个人中心
 1800.sql-tuning-practices=SQL 调优实践
@@ -135,6 +137,12 @@
 450.binlog-service=Binlog 服务
 500.obproxy-cluster=OBProxy 集群
 600.host=主机
+400.collection-reference=信息采集参考
+100.merge-exceptions=合并异常
+200.ocp-agent-exceptions=OCP Agent 异常
+300.cluster-exceptions=集群异常
+400.cpu-exceptions=CPU 异常
+500.data-disk-full=数据盘满
 2000.faq=常见问题
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
