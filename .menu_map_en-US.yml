@@ -121,6 +121,7 @@
 1000.alert=Alerts
 200.alert-events=Alert events
 300.alert-notification=Alert notifications
+1100.inspection=Inspection
 1200.sql-performance=SQL performance
 1300.backup-and-restoration=Backup and recovery
 1400.host-management=Host management
