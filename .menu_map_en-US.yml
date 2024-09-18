@@ -119,7 +119,7 @@
 1000.alert=Alerts
 200.alert-events=Alert events
 300.alert-notification=Alert notifications
-1050.inspection＝Inspection
+1050.inspection=Inspection
 1100.task-management=Task management
 1200.ocp-historical-events=OCP event history
 1300.ob-user-and-permission-management=OceanBase user and privilege management
