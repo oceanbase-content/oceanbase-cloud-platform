@@ -26,6 +26,7 @@
 600.cluster-functions=Cluster Management
 200.create-a-cluster=Create a cluster
 300.manage-a-cluster=Manage clusters
+1200.manage-om-configuration=Manage O&M configuration
 400.manage-arbitration-services=Manage Arbitration Service
 500.manage-a-zone=Manage zones of a cluster
 600.manage-an-observer=Manage OBServers of a cluster
