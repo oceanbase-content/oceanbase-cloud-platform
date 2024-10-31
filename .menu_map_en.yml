@@ -95,6 +95,7 @@
 100.manage-a-user=Manage a user
 200.manage-a-role=Manage a role
 300.manage-tags=Manage tags
+450.manage-external-integration=Manage external integration
 500.manage-system-parameter=Manage system parameters
 700.manage-user-center=User center management
 300.common-o-m-problems=FAQ on O&M
@@ -137,6 +138,12 @@
 450.binlog-service=Binlog Service
 500.obproxy-cluster=OBProxy cluster
 600.host=Host
+400.collection-reference=Information Collection Reference
+100.merge-exceptions=Major Compaction Exceptions
+200.ocp-agent-exceptions=OCP Agent Exceptions
+300.cluster-exceptions=Cluster Exceptions
+400.cpu-exceptions=CPU Exceptions
+500.data-disk-full=Data Disk Full
 2000.faq=FAQ
 2100.appendix=Appendix
 2200.release-notes=Release Notes
