@@ -129,7 +129,7 @@
 1400.host-management=Host management
 1500.software-package=Software packages
 1600.om-task-management=O&M tasks management
-1700.system-management=System-management
+1700.system-management=System management
 100.health-examination=Health examination
 200.ocp-historical-events=Operation Audit
 300.ocpagent-management=Agent management
@@ -145,6 +145,10 @@
 300.cluster-exceptions=Cluster Exceptions
 400.cpu-exceptions=CPU Exceptions
 500.data-disk-full=Data Disk Full
+500.error-code-reference=Error codes reference
+200.observer-error-code=OBServer error codes
+100.mysql-error-code=MySQL mode
+200.oracle-error-code=Oracle mode
 2000.faq=FAQ
 2100.appendix=Appendix
 2200.release-notes=Release Notes

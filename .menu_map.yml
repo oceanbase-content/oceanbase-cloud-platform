@@ -144,6 +144,13 @@
 300.cluster-exceptions=集群异常
 400.cpu-exceptions=CPU 异常
 500.data-disk-full=数据盘满
+600.memory-exception=内存异常
+700.host-exception=主机异常
+800.other-tenants-exception=其它租户相关异常
+500.error-code-reference=错误码参考
+200.observer-error-code=内核错误码
+100.mysql-error-code=错误码（MySQL 模式）
+200.oracle-error-code=错误码（Oracle 模式）
 2000.faq=常见问题
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
