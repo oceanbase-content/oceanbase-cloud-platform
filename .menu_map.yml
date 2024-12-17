@@ -30,7 +30,7 @@
 400.manage-arbitration-services=管理仲裁服务
 500.manage-a-zone=管理 Zone
 600.manage-an-observer=管理 OBServer
-1000.manage-cluster-resource=管理集群资源
+1000.manage-cluster-resource=查看集群资源管理
 1100.manage-cluster-merge=管理集群合并
 1300.manage-cluster-parameters=管理集群参数
 700.tenant-functions=租户管理
