@@ -27,12 +27,12 @@
 200.create-a-cluster=新建集群
 300.manage-a-cluster=管理集群
 1200.manage-om-configuration=管理运维配置
-400.manage-arbitration-services=管理仲裁服务
 500.manage-a-zone=管理 Zone
 600.manage-an-observer=管理 OBServer
 1000.manage-cluster-resource=查看集群资源管理
 1100.manage-cluster-merge=管理集群合并
 1300.manage-cluster-parameters=管理集群参数
+1350.manage-arbitration-services=管理仲裁服务
 700.tenant-functions=租户管理
 600.manage-a-tenant=管理租户
 900.manage-tenant-topulogy=管理拓扑图
