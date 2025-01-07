@@ -145,6 +145,9 @@
 300.cluster-exceptions=Cluster Exceptions
 400.cpu-exceptions=CPU Exceptions
 500.data-disk-full=Data Disk Full
+600.memory-exceptions=Memory Exceptions
+700.host-exceptions=Host Exceptions
+800.other-tenants-exceptions=Other Tenants Exceptions
 500.error-code-reference=Error codes reference
 200.observer-error-code=OBServer error codes
 100.mysql-error-code=MySQL mode
