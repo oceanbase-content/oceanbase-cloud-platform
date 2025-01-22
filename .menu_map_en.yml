@@ -13,6 +13,7 @@
 200.deploying-a-high-availability-of-ocp=Deploying a high availability of OCP
 400.deployment-faq=Deployment FAQ
 200.f5-ltm-and-alert-configuration=F5 Big-IP LTM and alert configuration
+500.deploy-appendix-ee=Appendix
 200.deploying-community-ocp=Deploy OceanBase Cloud Platform (OCP) Community Edition
 300.installation-planning=Installation planning
 700.deploy-appendix=Appendix
@@ -87,7 +88,6 @@
 100.switching-primary-and-standby-tenants=Switching primary and standby tenants
 200.switching-primary-and-standby-databases=Switching primary and standby databases
 300.ocp-multi-cluster-mode=OCP Manage OCP clusters in the multi-cluster mode
-400.ocp-multi-zone-mode=OCP Manage OCP in multi-zone mode
 1300.log-service=Log Management
 1500.manage-software-packages=Software Package Management
 1600.system-management-features=System Management
