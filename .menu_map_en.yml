@@ -87,7 +87,6 @@
 100.switching-primary-and-standby-tenants=Switching primary and standby tenants
 200.switching-primary-and-standby-databases=Switching primary and standby databases
 300.ocp-multi-cluster-mode=OCP Manage OCP clusters in the multi-cluster mode
-400.ocp-multi-zone-mode=OCP Manage OCP in multi-zone mode
 1300.log-service=Log Management
 1500.manage-software-packages=Software Package Management
 1600.system-management-features=System Management
